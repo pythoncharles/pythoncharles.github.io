@@ -28,4 +28,4 @@ title: "About-Us"
 |支付宝|       |微信|  
 :---:| :---------:|:---:
  |  | 
-|![支付宝](jpeg/alipy1.jpeg? "支付宝")|       |![微信](jpeg/wechat1.jpeg "微信")|
+|![支付宝](jpeg/alipy1.jpeg? "支付宝")|<---谢谢大佬--->|![微信](jpeg/wechat1.jpeg "微信")|
