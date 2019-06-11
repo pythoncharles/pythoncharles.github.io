@@ -15,7 +15,7 @@ title: "天道酬勤"
     </div>
 </h3>
 <hr>
-{{ post.excerpt | 0:50 }}
+{{ post.excerpt[0:5] }}
 <p><h4><a href="{{ post.url }}">阅读全文 &raquo;</a></h4></p>
 <hr>
 {% endfor %}
