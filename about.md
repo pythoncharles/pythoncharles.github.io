@@ -25,6 +25,9 @@ title: "关于：About"
 #### 4.赞助
 +  如果本站内容帮助到了你，请记得收藏、分享，或打赏支持，谢谢！！   
 
-支付宝|微信
-:---:|:---:
-![支付宝](alipay.jpeg "支付宝") {:width="50px" height="50px"}|![微信](wechat.jpeg "微信") {:width="50px" height="50px"}
+支付宝:
+![支付宝](alipay.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/50 "支付宝")
+---------
+微信:
+![微信](wechat.jpeg?/w/50 "微信")
+<img style="width:50px;height:50px" src="./wechat.jpeg"  alt="微信" align=center/>
