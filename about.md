@@ -26,12 +26,12 @@ title: "About-Us"
 
 支付宝:
 
-![支付宝](alipy.jpeg? "支付宝")
+![支付宝](jpeg/alipy1.jpeg? "支付宝")
 ---------
 
 微信:
 
-![微信](wechat.jpeg "微信")
+![微信](jpeg/wechat1.jpeg "微信")
 
 #### 5.学习
 + 相互学习，共同进步

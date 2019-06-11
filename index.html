@@ -5,7 +5,7 @@ title: "天道酬勤"
 
 <!-- Loop output paged posts -->
 {% for post in paginator.posts %}
-<h2>
+<h3>
     <a href="{{ post.url }}">
         {{ post.title }}
     </a>
@@ -13,10 +13,10 @@ title: "天道酬勤"
         <span class="glyphicon glyphicon-time"></span>
         {{ post.date | date:"%Y-%m-%d" }}
     </div>
-</h2>
+</h3>
 <hr>
 {{ post.excerpt }}
-<p><h3><a href="{{ post.url }}">阅读全文 &raquo;</a></h3></p>
+<p><h4><a href="{{ post.url }}">阅读全文 &raquo;</a></h4></p>
 <hr>
 {% endfor %}
 
