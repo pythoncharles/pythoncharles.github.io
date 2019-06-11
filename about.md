@@ -13,7 +13,7 @@ title: "About-Us"
 + 职业: 软件开发(Python&Linux&Web)  
 
 #### 2.个人链接
-+ Blog: <https://pythoncharles.github.io>  
++ Blog: <https://charles.weii.ink/>  
 + GitHub: <https://github.com/pythoncharles>  
 + 头条: <https://www.toutiao.com/c/user/61042120395/#mid=1574431805603853>
 

@@ -1,4 +1,4 @@
 ---
 layout: category
-category: Other
+category: other
 ---

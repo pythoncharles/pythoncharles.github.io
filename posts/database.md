@@ -1,4 +1,4 @@
 ---
 layout: category
-category: Database
+category: database
 ---

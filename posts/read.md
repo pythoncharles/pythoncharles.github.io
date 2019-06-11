@@ -1,4 +1,4 @@
 ---
 layout: category
-category: Read
+category: read
 ---
