@@ -5,20 +5,19 @@ title: "关于：About"
 Welcome to visit my blog!
 
 #### 1.Personal Info
-Name: Xuewen Pan(潘学文)  
+Name: Chenglong Wang(王成龙)  
 Gender: Male  
-City: Wuhan, China  
-Career: Software developer(Android&Linux&Web)  
+City: BeiJing, China  
+Career: Software developer(Python&Linux&Web)  
 
 #### 2.My Links
-Blog: <http://www.panxw.com>  
-GitHub: <https://github.com/panxw>  
-LinkedIn: <http://www.linkedin.com/in/panxw>  
+Blog: <https://pythoncharles.github.io/>  
+GitHub: <https://github.com/pythoncharles>  
 
 
 #### 3.Contract
-Email: winfirm#163.com  
-QQ: 85902258  
+Email: charles5533@163.com  
+QQ: 1054452533  
 
 ### 4.Domain For Sale
 danbaili.com  
