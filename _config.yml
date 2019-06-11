@@ -3,17 +3,19 @@ highlighter: pygments
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
-github: charles
+github: pythoncharles
 author: "王成龙"
-email: charles5533@163.com
+email: 1054452533@qq.com
 name: "王成龙个人博客"
-url: http://www.panxw.com
-domain: www.panxw.com
+url: https://pythoncharles.github.io
+domain: pythoncharles.github.io
 all_categories: [
 ["python", "Python开发","/posts/python.html"],
-["program", "软件编程","/posts/program.html"],
-["web", "Web建站","/posts/web.html"],
+["web", "Web框架","/posts/web.html"],
 ["linux", "Linux相关","/posts/linux.html"],
+["internet", "网络","/posts/internet.html"],
+["database", "数据库","/posts/database.html"],
+["algorithm", "算法","/posts/algorithm.html"],
 ["read", "读书笔记","/posts/read.html"],
 ["other", "杂记","/posts/other.html"],
 ["about", "关于","/about.html"]

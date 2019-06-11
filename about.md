@@ -1,14 +1,13 @@
 ---
 layout: page
-title: "关于：About"
+title: "About-Us"
 ---
 # Welcome to visit my blog!
-* 探索尝试，发现未知可能！
 * 崇德尚能，知行合一！
+* 探索尝试，发现未知可能！
 
 #### 1.个人信息
-+ 姓名: Chenglong Wang(王成龙)  
-+ 性别: Male  
++ 姓名: Chenglong Wang(王成龙)   
 + 城市: BeiJing, China  
 + 职业: 软件开发(Python&Linux&Web)  
 
@@ -26,8 +25,13 @@ title: "关于：About"
 +  如果本站内容帮助到了你，请记得收藏、分享，或打赏支持，谢谢！！   
 
 支付宝:
-![支付宝](alipay.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/50 "支付宝")
+
+![支付宝](alipy.jpeg? "支付宝")
 ---------
+
 微信:
-![微信](wechat.jpeg?/w/50 "微信")
-<img style="width:50px;height:50px" src="./wechat.jpeg"  alt="微信" align=center/>
+
+![微信](wechat.jpeg "微信")
+
+#### 5.学习
++ 相互学习，共同进步

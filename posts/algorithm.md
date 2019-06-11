@@ -1,4 +1,4 @@
 ---
 layout: category
-category: Python
+category: Algorithm
 ---
