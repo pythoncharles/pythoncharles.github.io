@@ -1,6 +1,6 @@
 ---
 layout: post
-category: "read"
+category: read
 title:  "海量数据的解决方案！"
 tags: [阅读,网络]
 ---
