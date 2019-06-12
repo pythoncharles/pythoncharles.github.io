@@ -7,8 +7,8 @@ github: pythoncharles
 author: "王成龙"
 email: 1054452533@qq.com
 name: "王成龙个人博客"
-url: https://charles.weii.ink/
-domain: charles.weii.ink/
+url: https://charles.weii.ink
+domain: charles.weii.ink
 all_categories: [
 ["python", "Python开发","/posts/python.html"],
 ["web", "Web框架","/posts/web.html"],
