@@ -5,7 +5,7 @@ title:  "AWS ELB技术要点"
 tags: [阅读,网络]
 date: 2019-06-12 10:05:01
 ---
-#### AWS ELB技术要点
+AWS ELB技术的描述主要有一下几点:
 * ELB优点
 * ELB提供的功能
 * ELB的局限性

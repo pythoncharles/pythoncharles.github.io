@@ -5,8 +5,7 @@ title:  "Django核心配置项"
 tags: [阅读,网络]
 ---
 
-#### Django核心配置项
-Django的默认配置文件中，包含上百条配置项目，其中很多是我们‘一辈子’都不碰到或者不需要单独配置的，这些项目在需要的时候再去查手册。
+&emsp;&emsp;Django的默认配置文件中，包含上百条配置项目，其中很多是我们‘一辈子’都不碰到或者不需要单独配置的，这些项目在需要的时候再去查手册。
 强调：配置的默认值不是在settings.py文件中！不要以为settings.py中的配置值就是默认值，参考前文。
 settings.py是使用django-admin startproject xxx命令时，额外给我们创建的。
 <!-- more -->

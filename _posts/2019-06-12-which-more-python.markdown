@@ -5,8 +5,7 @@ title:  "Python2与Python3的区别齐全"
 tags: [阅读,网络]
 date: 2019-06-12 18:05:01
 ---
-#### Python2与Python3的区别齐全
-我对学习Python 2还是Python 3有一些观点，希望能够帮助大家少走弯路，另外，关于Python的版本问题，我这里还有一些建议。
+&emsp;&emsp;我对学习Python 2还是Python 3有一些观点，希望能够帮助大家少走弯路，另外，关于Python的版本问题，我这里还有一些建议。
 <!-- more -->
 #### 一、核心类差异
     1. Python3 对 Unicode 字符的原生支持。
