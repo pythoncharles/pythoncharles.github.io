@@ -703,22 +703,11 @@ def index():
 if __name__ == '__main__':
     app.run(debug=True)
 ```
+
 PS:模板继承的方法和django的一样。   
  
 3.宏   
 只有定义的东西在很多地方去使用的时候才去用它,   
-html  
-```
-{% macro xx(name, type='text', value='') %}
-    <input type="{{ type }}" name="{{ name }}" value="{{ value }}">
-　　<input type="{{ type }}" name="{{ name }}" value="{{ value }}">
-　　<input type="{{ type }}" name="{{ name }}" value="{{ value }}">
-
-{% endmacro %}
-
-{{ xx('n1') }} 
-```
-
 相当于在页面上定义了一个名为xx的'函数'，这个函数接收3个参数，我们给type和value写上了默认值，
 此时调用，我们还需要传入一个参数，我们此时传入了一个n1，则
 页面上会生成3个input框，name都为n1      
