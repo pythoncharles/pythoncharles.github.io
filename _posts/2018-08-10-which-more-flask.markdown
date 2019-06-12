@@ -704,8 +704,8 @@ if __name__ == '__main__':
     app.run(debug=True)
 ```
 ---------------------
-```
 index.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -715,7 +715,6 @@ index.html
     <title>Title</title>
 </head>
 <body>
-{{ v1 }}
 <ul>
     {% for foo in v2 %}
        <li>{{ foo }}</li>
