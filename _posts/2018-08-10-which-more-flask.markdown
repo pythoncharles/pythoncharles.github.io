@@ -702,8 +702,9 @@ def index():
 
 if __name__ == '__main__':
     app.run(debug=True)
-
-
+```
+---------------------
+```
 index.html
 <!DOCTYPE html>
 <html lang="en">
@@ -720,16 +721,13 @@ index.html
        <li>{{ foo }}</li>
     {% endfor %}
     {{ v2.1 }}
-
     {% for k,v in v3.items() %}
     <li>{{ k }} {{ v }}</li>
     {% endfor %}
     {{ v3.k1 }}
     {{ v3.get("k1") }}
-
     {{ v4|safe }}
     {{ v5 }}
-
     <h1>{{ test(1,2) }}</h1>
     <p>{{ sb(1,2) }}</p>
     <p>{{ 1| db(2,3) }}</p>
