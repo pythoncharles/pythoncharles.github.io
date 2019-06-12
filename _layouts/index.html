@@ -24,6 +24,7 @@
     <script src="/js/jquery-1.11.0.js"></script>
     <!-- Bootstrap Core JavaScript -->
     <script src="/js/bootstrap.min.js"></script>
+    <script>setInterval("linkweb.innerHTML=new Date().toLocaleString()+' 星期'+'日一二三四五六'.charAt(new Date().getDay());", 1000);</script>
 </head>
 
 <body>
@@ -68,7 +69,7 @@
             <!-- Blog weather Well -->
             <div class="well">
                 <h4>
-                    时间天气
+                    <div id="linkweb"></div>
                 </h4>
                 <div class="row">
                     {% include weather.html %}
