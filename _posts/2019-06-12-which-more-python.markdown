@@ -1,10 +1,13 @@
 ---
 layout: post
 category: python
-title:  "python2与python3的区别齐全"
+title:  "Python2与Python3的区别齐全"
 tags: [阅读,网络]
 date: 2019-06-12 18:05:01
 ---
+#### Python2与Python3的区别齐全
+我对学习Python 2还是Python 3有一些观点，希望能够帮助大家少走弯路，另外，关于Python的版本问题，我这里还有一些建议。
+<!-- more -->
 #### 一、核心类差异
     1. Python3 对 Unicode 字符的原生支持。
         Python2 中使用 ASCII 码作为默认编码方式导致 string 有两种类型 str 和 unicode，Python3 只
@@ -20,7 +23,7 @@ date: 2019-06-12 18:05:01
         许 tab 和 space 在代码中共存。这种等价机制会导致部分 IDE 使用存在问题。
         Python3 中 1 个 tab 只能找另外一个 tab 替代，因此 tab 和 space 共存会导致报错：TabError:
         inconsistent use of tabs and spaces in indentation.
-        <!-- more -->
+        
 #### 二、废弃类差异
     1. print 语句被 Python3 废弃，统一使用 print 函数
     2. exec 语句被 python3 废弃，统一使用 exec 函数
