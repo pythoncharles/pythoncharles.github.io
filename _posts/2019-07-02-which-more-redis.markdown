@@ -3,7 +3,7 @@ layout: post
 category: database
 title:  "50道Redis面试题史上最全"
 tags: [阅读,网络]
-date: 2018-07-02 13:05:25
+date: 2019-07-02 13:05:25
 ---
 
 什么是Redis？Redis本质上是一个Key-Value类型的内存数据库，很像memcached，整个数据库统统加载在内存当中进行操作，定期通过异步操作把数据库数据flush到硬盘上进行保存。<!-- more -->
