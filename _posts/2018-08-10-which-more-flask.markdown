@@ -3,7 +3,7 @@ layout: post
 category: web
 title:  "Flask快速入门，知识整理"
 tags: [阅读,web]
-date: 2018-07-10 13:05:25
+date: 2018-08-10 13:05:25
 ---
 &emsp;&emsp;Flask是一个基于Python开发并且依赖jinja2模板和Werkzeug WSGI服务的一个微型框架，对于Werkzeug本质是Socket服务端，
 其用于接收http请求并对请求进行预处理，然后触发Flask框架，开发人员基于Flask框架提供的功能对请求进行相应的处理，并返回给用户，

@@ -3,6 +3,7 @@ layout: post
 category: web
 title:  "Django核心配置项"
 tags: [阅读,网络]
+date: 2018-08-13 13:05:25
 ---
 
 &emsp;&emsp;Django的默认配置文件中，包含上百条配置项目，其中很多是我们‘一辈子’都不碰到或者不需要单独配置的，这些项目在需要的时候再去查手册。

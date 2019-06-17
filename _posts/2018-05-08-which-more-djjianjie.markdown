@@ -3,7 +3,7 @@ layout: post
 category: web
 title:  "Django简介"
 tags: [阅读,网络]
-date: 2018-07-10 13:05:25
+date: 2018-05-08 13:05:25
 ---
 
 &emsp;&emsp;Django是一种开源的大而且全的Web应用框架，是由python语言来编写的。他采用了MVC模式，什么是MVC？
