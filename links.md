@@ -8,7 +8,7 @@ tags: [链接,友情,交换]
 本站链接：
 
 >站名：博客  
->网址：https://charles.weii.ink/   
+>网址：https://charles.weii.ink   
 >说明：个人博客  
 
 留言格式参考本站链接，谢谢!
