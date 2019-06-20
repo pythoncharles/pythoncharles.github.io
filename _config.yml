@@ -16,7 +16,7 @@ all_categories: [
 ["internet", "网络","/posts/internet.html"],
 ["database", "数据库","/posts/database.html"],
 ["algorithm", "算法","/posts/algorithm.html"],
-["read", "读书笔记","/posts/read.html"],
+["read", "Web前端","/posts/read.html"],
 ["other", "杂记","/posts/other.html"],
 ["about", "关于","/about.html"]
 ]
