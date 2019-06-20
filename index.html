@@ -78,7 +78,7 @@ title: "天道酬勤"
         </li>
         {% else %}
         <li>
-            <a href="{{ site.paginate_path | append : '.html' | prepend: site.baseurl | replace: ':num', page }}">{{
+            <a href="{{ site.paginate_path | append : '/index.html' | prepend: site.baseurl | replace: ':num', page }}">{{
                 page }}</a>
         </li>
         {% endif %}
@@ -86,7 +86,7 @@ title: "天道酬勤"
 
         {% if paginator.next_page %}
         <li>
-            <a href="{{ paginator.next_page_path | append : '.html' | prepend: site.baseurl | replace: '//', '/' }}">Next
+            <a href="{{ paginator.next_page_path | append : '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">Next
                 &raquo;</a>
         </li>
         {% else %}
