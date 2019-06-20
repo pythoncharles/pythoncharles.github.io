@@ -1,5 +1,5 @@
 markdown: kramdown
-highlighter: rouge  #pygments
+highlighter: rouge
 permalink: /posts/:title.html
 excerpt_separator: "<!-- more -->"
 
@@ -21,7 +21,7 @@ all_categories: [
 ["about", "关于","/about.html"]
 ]
 
-paginate: 8
+paginate: 6
 paginate_path: "posts/page:num"
 timezone: America/Los_Angeles
 
